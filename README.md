@@ -6,4 +6,4 @@ Every three years, the U.S. Federal Reserve conducts the Survey of Consumer Fina
 
 To achieve this, the project applies an unsupervised machine learning technique known as K-Means Clustering. The data is first prepared through feature selection and dimensionality reduction using Principal Component Analysis (PCA), and then segmented using the k-means algorithm. The output is a set of well-defined clusters that reveal patterns within the credit-constrained population. To ensure the results are accessible and usable, the final step is the development of a web-based dashboard using Plotly Dash. This web application allows users to interact with the data, compare clusters, and derive insights that can inform further analysis or decision-making in fields like marketing, public policy, or financial services.
 
-Watch the [Demo Video]()!
+**Watch the [Demo Video](https://youtu.be/AB5f30eg3Dc?si=MGQrBVYNCShgXOLa)!**
