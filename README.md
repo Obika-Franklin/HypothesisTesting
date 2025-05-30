@@ -8,4 +8,8 @@ This project addresses the problem of low admissions exam completion rates by in
 
 To make the analysis accessible and actionable, we will develop an interactive web application using Plotly Dash. The app will enable stakeholders to visualize key metrics, explore A/B test results, and understand the impact of reminders on user behavior. By combining experimental analysis with a user-friendly interface, this project delivers insights that can guide data-driven strategies for enhancing user engagement in digital education platforms.
 
+---
+
 **Watch the [Demo Video](https://youtu.be/AB5f30eg3Dc?si=MGQrBVYNCShgXOLa)!**
+
+**Access the [Colab Notebook](https://colab.research.google.com/drive/1NPHyU_8KdGCJeLMLSR6MbkzDY18cDz-q?usp=sharing)!**
